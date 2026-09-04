@@ -1,8 +1,0 @@
-Business Profit Tracker Pro v3
-1. লাভ এন্ট্রি আলাদা।
-2. খরচ সম্পূর্ণ আলাদা Expense Ledger।
-3. একই দিনে যতবার খরচ হবে, প্রতিবার আলাদা entry দিন। কোনো daily limit নেই।
-4. Dashboard ও Reports স্বয়ংক্রিয়ভাবে সব expense যোগ করবে।
-5. From/To date দিয়ে যেকোনো range দেখুন।
-6. Backup JSON-এ লাভ, সব খরচ ও target থাকে।
-7. Secure local storage encryption চালু আছে। নিয়মিত Backup রাখুন।
